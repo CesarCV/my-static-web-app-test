@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@rollup/plugin-terser": "^0.4.4"
+  },
+  "dependencies": {
+    "sourcemap-codec": "^1.4.8",
+    "stable": "^0.1.8",
+    "w3c-hr-time": "^1.0.2",
+    "workbox-cacheable-response": "^7.0.0"
+  }
+}
